@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  overflow: hidden;
+  background: #fafafa;
+  height: 100%;
+}
+
+.rounded{
+  border-radius: 50%;
+}
