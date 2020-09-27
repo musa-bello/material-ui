@@ -1,5 +1,5 @@
 import React from 'react'
-import {style, miniCard, alignText,bottomButtons, transformText} from './CustomStyles'
+import { style, miniCard, alignText,bottomButtons, transformText } from './CustomStyles'
 import Card from '@material-ui/core/Card';
 import CardContent from '@material-ui/core/CardContent';
 import DescriptionIcon from '@material-ui/icons/Description';
