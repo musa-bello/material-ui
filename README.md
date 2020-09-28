@@ -5,7 +5,7 @@ Live test URL.<br />
 https://material-ui-theta.vercel.app/
 
 <p align="center">
-  <img src="./screencapture.PNG" alt='Screenshot'>
+  <img src="./screencapture.png" alt='Screenshot'>
 </p>
 
 ## Development
